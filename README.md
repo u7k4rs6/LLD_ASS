@@ -1,7 +1,7 @@
 
 ---
 
-# SST28-LLD101 — SOLID Refactoring Practice
+# SOLID Practice
 
 This repository contains **10 structured refactoring exercises** designed for SST students who have completed foundational OOP and are now strengthening their understanding of **SOLID principles** through practical, behavior-preserving improvements.
 
